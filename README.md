@@ -25,11 +25,11 @@ This repository contains a complete manual testing cycle, from the test plan to 
 
 | File | Description |
 |---|---|
-| `Test_Plan_SauceDemo.pdf` | Scope, strategy, test design techniques, environment, schedule, STLC entry and exit criteria, severity and priority levels |
-| `Test_Cases_SauceDemo.xlsx` | 79 test cases across six sheets: Login, Products, Cart, Checkout, Menu and Footer, Demo Users |
-| `Bug_Report_SauceDemo.xlsx` | 15 defects with test case ID, steps to reproduce, expected and actual result, severity, priority and screenshot reference |
-| `Test_Summary_Report_SauceDemo.pdf` | Execution summary, defect summary, exit criteria evaluation, observations and recommendations |
-| `screenshots/` | Evidence for each reported defect |
+| [Quality_Assurance_Test_Plan_for_SauceDemo_Website_Detailed.pdf](Quality_Assurance_Test_Plan_for_SauceDemo_Website_Detailed.pdf) | Scope, strategy, test design techniques, environment, schedule, STLC entry and exit criteria, severity and priority levels |
+| [Test_cases_Report_SauceDemo.xlsx](Test_cases_Report_SauceDemo.xlsx) | 79 test cases across six sheets: Login, Products, Cart, Checkout, Menu and Footer, Demo Users |
+| [Bug_Report_SauceDemo.xlsx](Bug_Report_SauceDemo.xlsx) | 15 defects with test case ID, steps to reproduce, expected and actual result, severity, priority and screenshot reference |
+| [Test_Summary_Report_SauceDemo.pdf](Test_Summary_Report_SauceDemo.pdf) | Execution summary, defect summary, exit criteria evaluation, observations and recommendations |
+| [Screenshots](Screenshots) | Evidence for each reported defect |
 
 ---
 
